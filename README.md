@@ -9,7 +9,7 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/raihanm95)
 ![](https://komarev.com/ghpvc/?username=raihanM95)
 
-:wave: Hi there, I am Raihan Mahmud <br/>Software Engineer from :bangladesh:. Exploring and learning new technology is my passion.
+:wave: Hi there, I am Fahim Sarker <br/>Software Engineer from :bangladesh:. Exploring and learning new technology is my passion.
 
 ## {...} My Stack
 ```yml
